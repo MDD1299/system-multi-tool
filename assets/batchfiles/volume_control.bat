@@ -1,0 +1,1 @@
+powershell -Command "(New-Object -ComObject WScript.Shell).SendKeys([char]8700)"
